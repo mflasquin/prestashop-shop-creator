@@ -292,3 +292,4 @@ If you want to use a default xml file instead of generating one using the entity
 directory.
 
 It will be automatically parsed by the script and will be taken into account for the existing entity relations.
+test php stan
